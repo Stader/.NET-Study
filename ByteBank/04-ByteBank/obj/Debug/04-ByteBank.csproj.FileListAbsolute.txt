@@ -1,0 +1,7 @@
+E:\GitHub\.NET-Study\ByteBank\04-ByteBank\bin\Debug\04-ByteBank.exe.config
+E:\GitHub\.NET-Study\ByteBank\04-ByteBank\bin\Debug\04-ByteBank.exe
+E:\GitHub\.NET-Study\ByteBank\04-ByteBank\bin\Debug\04-ByteBank.pdb
+E:\GitHub\.NET-Study\ByteBank\04-ByteBank\obj\Debug\04-ByteBank.csprojAssemblyReference.cache
+E:\GitHub\.NET-Study\ByteBank\04-ByteBank\obj\Debug\04-ByteBank.csproj.CoreCompileInputs.cache
+E:\GitHub\.NET-Study\ByteBank\04-ByteBank\obj\Debug\04-ByteBank.exe
+E:\GitHub\.NET-Study\ByteBank\04-ByteBank\obj\Debug\04-ByteBank.pdb

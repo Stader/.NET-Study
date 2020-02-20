@@ -1,0 +1,2 @@
+E:\GitHub\.NET-Study\ByteBank\07-ByteBank\obj\Debug\07-ByteBank.csprojAssemblyReference.cache
+E:\GitHub\.NET-Study\ByteBank\07-ByteBank\obj\Debug\07-ByteBank.csproj.CoreCompileInputs.cache
